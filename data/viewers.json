@@ -1,0 +1,21 @@
+{
+  "total": 2,
+  "viewers": [
+    {
+      "username": "toonerfish",
+      "karma": 95,
+      "coins": 159,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "121370216"
+      }
+    },
+    {
+      "username": "twitch:121370216",
+      "karma": 100,
+      "coins": 170,
+      "isBanned": false,
+      "platformIds": {}
+    }
+  ]
+}
