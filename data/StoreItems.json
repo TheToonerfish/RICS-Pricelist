@@ -10182,7 +10182,7 @@
       "Mod": "Biotech",
       "BasePrice": 50,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_KidRomper": {
       "DefName": "Apparel_KidRomper",
@@ -10695,7 +10695,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "CorrosiveHeart": {
       "DefName": "CorrosiveHeart",
@@ -10714,7 +10714,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "MetalbloodHeart": {
       "DefName": "MetalbloodHeart",
@@ -10733,7 +10733,7 @@
       "Mod": "Anomaly",
       "BasePrice": 94,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "RevenantVertebrae": {
       "DefName": "RevenantVertebrae",
@@ -11569,7 +11569,7 @@
       "Mod": "Odyssey",
       "BasePrice": 110,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "PilotAssistant": {
       "DefName": "PilotAssistant",
@@ -14248,7 +14248,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 600,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_SystemMerger": {
       "DefName": "MU_SystemMerger",
@@ -14267,7 +14267,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1395,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_ChemfuelMiniBurner": {
       "DefName": "MU_ChemfuelMiniBurner",
@@ -14286,7 +14286,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 310,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_ChemfuelBurner": {
       "DefName": "MU_ChemfuelBurner",
@@ -14305,7 +14305,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 555,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_ChemfuelFlamethrower": {
       "DefName": "MU_ChemfuelFlamethrower",
@@ -14324,7 +14324,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1205,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_CargoCell_Small": {
       "DefName": "MU_CargoCell_Small",
@@ -14343,7 +14343,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 260,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_CargoCell_Double": {
       "DefName": "MU_CargoCell_Double",
@@ -14362,7 +14362,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 445,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_CargoCell_Large": {
       "DefName": "MU_CargoCell_Large",
@@ -14381,7 +14381,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 905,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_FragGrenades": {
       "DefName": "MU_FragGrenades",
@@ -14457,7 +14457,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1620,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_LegActuators": {
       "DefName": "MU_LegActuators",
@@ -14476,7 +14476,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1430,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_UrchinSpawner": {
       "DefName": "MU_UrchinSpawner",
@@ -14495,7 +14495,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1445,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_JumpLauncher": {
       "DefName": "MU_JumpLauncher",
@@ -14514,7 +14514,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 635,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MedicineKit": {
       "DefName": "MU_MedicineKit",
@@ -14533,7 +14533,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 460,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_FrequencyAmplifier": {
       "DefName": "MU_FrequencyAmplifier",
@@ -14552,7 +14552,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1000,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Repair_A": {
       "DefName": "MU_Module_Repair_A",
@@ -14571,7 +14571,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1315,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Repair_B": {
       "DefName": "MU_Module_Repair_B",
@@ -14590,7 +14590,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 550,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Repair_C": {
       "DefName": "MU_Module_Repair_C",
@@ -14609,7 +14609,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 205,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Melee_A": {
       "DefName": "MU_Module_Melee_A",
@@ -14628,7 +14628,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1315,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Melee_B": {
       "DefName": "MU_Module_Melee_B",
@@ -14647,7 +14647,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 550,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Melee_C": {
       "DefName": "MU_Module_Melee_C",
@@ -14666,7 +14666,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 205,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Ranged_A": {
       "DefName": "MU_Module_Ranged_A",
@@ -14685,7 +14685,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1315,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Ranged_B": {
       "DefName": "MU_Module_Ranged_B",
@@ -14704,7 +14704,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 550,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Ranged_C": {
       "DefName": "MU_Module_Ranged_C",
@@ -14723,7 +14723,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 205,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Shield_A": {
       "DefName": "MU_Module_Shield_A",
@@ -14742,7 +14742,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1315,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Shield_B": {
       "DefName": "MU_Module_Shield_B",
@@ -14761,7 +14761,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 550,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Shield_C": {
       "DefName": "MU_Module_Shield_C",
@@ -14780,7 +14780,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 205,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Module_Robust": {
       "DefName": "MU_Module_Robust",
@@ -14799,7 +14799,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 2000,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_CommandPack": {
       "DefName": "MU_CommandPack",
@@ -14818,7 +14818,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 2020,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_FirefoamPopPack": {
       "DefName": "MU_FirefoamPopPack",
@@ -14837,7 +14837,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 245,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_SmokePopPack": {
       "DefName": "MU_SmokePopPack",
@@ -14856,7 +14856,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 265,
       "Category": "Mech upgrades",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Shield_Small_A": {
       "DefName": "MU_Shield_Small_A",
@@ -14989,7 +14989,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 2480,
       "Category": "Large shields",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Shield_Large_B": {
       "DefName": "MU_Shield_Large_B",
@@ -15008,7 +15008,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1365,
       "Category": "Large shields",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_Shield_Large_C": {
       "DefName": "MU_Shield_Large_C",
@@ -15027,7 +15027,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 730,
       "Category": "Large shields",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_UpgradePack_Militor": {
       "DefName": "MU_UpgradePack_Militor",
@@ -15103,7 +15103,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 380,
       "Category": "Turrets",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_BasicUpgradesAssembler": {
       "DefName": "MU_BasicUpgradesAssembler",
@@ -15236,7 +15236,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 720,
       "Category": "Large armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Large_B": {
       "DefName": "MU_MechArmor_Large_B",
@@ -15255,7 +15255,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1390,
       "Category": "Large armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Large_A": {
       "DefName": "MU_MechArmor_Large_A",
@@ -15274,7 +15274,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 2770,
       "Category": "Large armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Medium_C": {
       "DefName": "MU_MechArmor_Medium_C",
@@ -15293,7 +15293,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 260,
       "Category": "Medium armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Medium_B": {
       "DefName": "MU_MechArmor_Medium_B",
@@ -15312,7 +15312,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 655,
       "Category": "Medium armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Medium_A": {
       "DefName": "MU_MechArmor_Medium_A",
@@ -15331,7 +15331,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1945,
       "Category": "Medium armor",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechArmor_Small_C": {
       "DefName": "MU_MechArmor_Small_C",
@@ -15464,7 +15464,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Melee_B": {
       "DefName": "MU_MechChip_Melee_B",
@@ -15483,7 +15483,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Melee_C": {
       "DefName": "MU_MechChip_Melee_C",
@@ -15502,7 +15502,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Dodge_A": {
       "DefName": "MU_MechChip_Dodge_A",
@@ -15521,7 +15521,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Dodge_B": {
       "DefName": "MU_MechChip_Dodge_B",
@@ -15540,7 +15540,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Dodge_C": {
       "DefName": "MU_MechChip_Dodge_C",
@@ -15559,7 +15559,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_GastroAnalize_A": {
       "DefName": "MU_MechChip_GastroAnalize_A",
@@ -15578,7 +15578,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_GastroAnalize_B": {
       "DefName": "MU_MechChip_GastroAnalize_B",
@@ -15597,7 +15597,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Production_A": {
       "DefName": "MU_MechChip_Production_A",
@@ -15616,7 +15616,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Production_B": {
       "DefName": "MU_MechChip_Production_B",
@@ -15635,7 +15635,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Medical_A": {
       "DefName": "MU_MechChip_Medical_A",
@@ -15654,7 +15654,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Medical_B": {
       "DefName": "MU_MechChip_Medical_B",
@@ -15673,7 +15673,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_RemoteControlChip": {
       "DefName": "MU_RemoteControlChip",
@@ -15692,7 +15692,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 1000,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Ranged_A": {
       "DefName": "MU_MechChip_Ranged_A",
@@ -15711,7 +15711,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Ranged_B": {
       "DefName": "MU_MechChip_Ranged_B",
@@ -15730,7 +15730,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Ranged_C": {
       "DefName": "MU_MechChip_Ranged_C",
@@ -15749,7 +15749,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Reload_A": {
       "DefName": "MU_MechChip_Reload_A",
@@ -15768,7 +15768,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Reload_B": {
       "DefName": "MU_MechChip_Reload_B",
@@ -15787,7 +15787,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Reload_C": {
       "DefName": "MU_MechChip_Reload_C",
@@ -15806,7 +15806,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Aiming_A": {
       "DefName": "MU_MechChip_Aiming_A",
@@ -15825,7 +15825,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Aiming_B": {
       "DefName": "MU_MechChip_Aiming_B",
@@ -15844,7 +15844,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Aiming_C": {
       "DefName": "MU_MechChip_Aiming_C",
@@ -15863,7 +15863,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Range_A": {
       "DefName": "MU_MechChip_Range_A",
@@ -15882,7 +15882,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Range_B": {
       "DefName": "MU_MechChip_Range_B",
@@ -15901,7 +15901,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Range_C": {
       "DefName": "MU_MechChip_Range_C",
@@ -15920,7 +15920,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Work_A": {
       "DefName": "MU_MechChip_Work_A",
@@ -15939,7 +15939,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Work_B": {
       "DefName": "MU_MechChip_Work_B",
@@ -15958,7 +15958,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Work_C": {
       "DefName": "MU_MechChip_Work_C",
@@ -15977,7 +15977,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Speed_A": {
       "DefName": "MU_MechChip_Speed_A",
@@ -15996,7 +15996,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Speed_B": {
       "DefName": "MU_MechChip_Speed_B",
@@ -16015,7 +16015,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Speed_C": {
       "DefName": "MU_MechChip_Speed_C",
@@ -16034,7 +16034,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Energy_A": {
       "DefName": "MU_MechChip_Energy_A",
@@ -16053,7 +16053,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 690,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Energy_B": {
       "DefName": "MU_MechChip_Energy_B",
@@ -16072,7 +16072,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 365,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "MU_MechChip_Energy_C": {
       "DefName": "MU_MechChip_Energy_C",
@@ -16091,7 +16091,7 @@
       "Mod": "Mechanoid Upgrades",
       "BasePrice": 122,
       "Category": "Chips",
-      "Enabled": true
+      "Enabled": false
     },
     "VFEE_Aperitif": {
       "DefName": "VFEE_Aperitif",
@@ -20195,7 +20195,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 385,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AirFilter": {
       "DefName": "VREA_AirFilter",
@@ -20214,7 +20214,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 315,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Neutrofilter": {
       "DefName": "VREA_Neutrofilter",
@@ -20233,7 +20233,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 315,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_MetabolismRegulator": {
       "DefName": "VREA_MetabolismRegulator",
@@ -20252,7 +20252,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 325,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Reactor": {
       "DefName": "VREA_Reactor",
@@ -20271,7 +20271,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 570,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_OpticalUnit": {
       "DefName": "VREA_OpticalUnit",
@@ -20290,7 +20290,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 340,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AudioProcessor": {
       "DefName": "VREA_AudioProcessor",
@@ -20309,7 +20309,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 295,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialNose": {
       "DefName": "VREA_ArtificialNose",
@@ -20328,7 +20328,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialJaw": {
       "DefName": "VREA_ArtificialJaw",
@@ -20347,7 +20347,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 183,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialRibcage": {
       "DefName": "VREA_ArtificialRibcage",
@@ -20366,7 +20366,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 183,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_ArtificialSpine": {
       "DefName": "VREA_ArtificialSpine",
@@ -20385,7 +20385,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 193,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidLeg": {
       "DefName": "VREA_AndroidLeg",
@@ -20404,7 +20404,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 230,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidFoot": {
       "DefName": "VREA_AndroidFoot",
@@ -20423,7 +20423,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidArm": {
       "DefName": "VREA_AndroidArm",
@@ -20442,7 +20442,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 230,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_AndroidHand": {
       "DefName": "VREA_AndroidHand",
@@ -20461,7 +20461,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalTentacle": {
       "DefName": "AI_AnimalTentacle",
@@ -20480,7 +20480,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 320,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalToughspikes": {
       "DefName": "AI_AnimalToughspikes",
@@ -20499,7 +20499,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 520,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalRangedTrispikes": {
       "DefName": "AI_AnimalRangedTrispikes",
@@ -20518,7 +20518,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 520,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicLung": {
       "DefName": "AI_AnimalBionicLung",
@@ -20537,7 +20537,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicKidney": {
       "DefName": "AI_AnimalBionicKidney",
@@ -20556,7 +20556,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 355,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicLiver": {
       "DefName": "AI_AnimalBionicLiver",
@@ -20575,7 +20575,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalPiercingSpine": {
       "DefName": "AI_AnimalPiercingSpine",
@@ -20594,7 +20594,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalAcidSpray": {
       "DefName": "AI_AnimalAcidSpray",
@@ -20613,7 +20613,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalFoamSpray": {
       "DefName": "AI_AnimalFoamSpray",
@@ -20632,7 +20632,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalFireSpew": {
       "DefName": "AI_AnimalFireSpew",
@@ -20651,7 +20651,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalUpsyDaisyVampireyHealyPower": {
       "DefName": "AI_AnimalUpsyDaisyVampireyHealyPower",
@@ -20670,7 +20670,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalImmunoenhancer": {
       "DefName": "AI_AnimalImmunoenhancer",
@@ -20689,7 +20689,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 565,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalCircadianSupercharger": {
       "DefName": "AI_AnimalCircadianSupercharger",
@@ -20708,7 +20708,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 565,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalHealClotSynergizer": {
       "DefName": "AI_AnimalHealClotSynergizer",
@@ -20727,7 +20727,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 675,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalDermalArmorGland": {
       "DefName": "AI_AnimalDermalArmorGland",
@@ -20746,7 +20746,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 675,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalNuclearStomach": {
       "DefName": "AI_AnimalNuclearStomach",
@@ -20765,7 +20765,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 785,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalUnstableSkipSynapsis": {
       "DefName": "AI_AnimalUnstableSkipSynapsis",
@@ -20784,7 +20784,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 785,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalSkinHardener": {
       "DefName": "AI_AnimalSkinHardener",
@@ -20803,7 +20803,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 515,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalVenomFangs": {
       "DefName": "AI_AnimalVenomFangs",
@@ -20822,7 +20822,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 188,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticsTable": {
       "DefName": "AI_AnimalProstheticsTable",
@@ -20879,7 +20879,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 2800,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalArchotechArm": {
       "DefName": "AI_AnimalArchotechArm",
@@ -20898,7 +20898,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 2800,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalArchotechTail": {
       "DefName": "AI_AnimalArchotechTail",
@@ -20917,7 +20917,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 2800,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalSynapticReinforcer": {
       "DefName": "AI_AnimalSynapticReinforcer",
@@ -20936,7 +20936,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 2800,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicLeg": {
       "DefName": "AI_AnimalBionicLeg",
@@ -20955,7 +20955,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 565,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicArm": {
       "DefName": "AI_AnimalBionicArm",
@@ -20974,7 +20974,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 565,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicTail": {
       "DefName": "AI_AnimalBionicTail",
@@ -20993,7 +20993,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 565,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicJaw": {
       "DefName": "AI_AnimalBionicJaw",
@@ -21012,7 +21012,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicHeart": {
       "DefName": "AI_AnimalBionicHeart",
@@ -21031,7 +21031,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicSpine": {
       "DefName": "AI_AnimalBionicSpine",
@@ -21050,7 +21050,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicStomach": {
       "DefName": "AI_AnimalBionicStomach",
@@ -21069,7 +21069,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicEye": {
       "DefName": "AI_AnimalBionicEye",
@@ -21088,7 +21088,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicNose": {
       "DefName": "AI_AnimalBionicNose",
@@ -21107,7 +21107,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 330,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicEar": {
       "DefName": "AI_AnimalBionicEar",
@@ -21126,7 +21126,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 330,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicBeak": {
       "DefName": "AI_AnimalBionicBeak",
@@ -21145,7 +21145,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicTentacle": {
       "DefName": "AI_AnimalBionicTentacle",
@@ -21164,7 +21164,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicBuoyancy": {
       "DefName": "AI_AnimalBionicBuoyancy",
@@ -21183,7 +21183,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicShell": {
       "DefName": "AI_AnimalBionicShell",
@@ -21202,7 +21202,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 430,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicWing": {
       "DefName": "AI_AnimalBionicWing",
@@ -21221,7 +21221,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicBlade": {
       "DefName": "AI_AnimalBionicBlade",
@@ -21240,7 +21240,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 430,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicStinger": {
       "DefName": "AI_AnimalBionicStinger",
@@ -21259,7 +21259,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBionicHorn": {
       "DefName": "AI_AnimalBionicHorn",
@@ -21278,7 +21278,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalStealthskinImplant": {
       "DefName": "AI_AnimalStealthskinImplant",
@@ -21297,7 +21297,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipFlick": {
       "DefName": "AI_AnimalWorkChipFlick",
@@ -21316,7 +21316,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipClean": {
       "DefName": "AI_AnimalWorkChipClean",
@@ -21335,7 +21335,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipSlaughter": {
       "DefName": "AI_AnimalWorkChipSlaughter",
@@ -21354,7 +21354,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 340,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipMine": {
       "DefName": "AI_AnimalWorkChipMine",
@@ -21373,7 +21373,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipFeedPatient": {
       "DefName": "AI_AnimalWorkChipFeedPatient",
@@ -21392,7 +21392,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipHarvest": {
       "DefName": "AI_AnimalWorkChipHarvest",
@@ -21411,7 +21411,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 555,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipSow": {
       "DefName": "AI_AnimalWorkChipSow",
@@ -21430,7 +21430,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWorkChipHunt": {
       "DefName": "AI_AnimalWorkChipHunt",
@@ -21449,7 +21449,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalShrinker": {
       "DefName": "AI_AnimalShrinker",
@@ -21468,7 +21468,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalEnlarger": {
       "DefName": "AI_AnimalEnlarger",
@@ -21487,7 +21487,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AdditionalBuoyancyVacuoles": {
       "DefName": "AI_AdditionalBuoyancyVacuoles",
@@ -21506,7 +21506,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 585,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalRangedSpinneret": {
       "DefName": "AI_AnimalRangedSpinneret",
@@ -21525,7 +21525,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalVenomousSpitter": {
       "DefName": "AI_AnimalVenomousSpitter",
@@ -21544,7 +21544,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalAcidicSpitter": {
       "DefName": "AI_AnimalAcidicSpitter",
@@ -21563,7 +21563,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBarbedQuillThrower": {
       "DefName": "AI_AnimalBarbedQuillThrower",
@@ -21582,7 +21582,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalQuadTeslaCannon": {
       "DefName": "AI_AnimalQuadTeslaCannon",
@@ -21601,7 +21601,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalBioelectricOrgan": {
       "DefName": "AI_AnimalBioelectricOrgan",
@@ -21620,7 +21620,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalLightFocusingLens": {
       "DefName": "AI_AnimalLightFocusingLens",
@@ -21639,7 +21639,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalHyperAcidicStomach": {
       "DefName": "AI_AnimalHyperAcidicStomach",
@@ -21658,7 +21658,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalPetrifyingGaze": {
       "DefName": "AI_AnimalPetrifyingGaze",
@@ -21677,7 +21677,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalWispFire": {
       "DefName": "AI_AnimalWispFire",
@@ -21696,7 +21696,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalAcidicBreath": {
       "DefName": "AI_AnimalAcidicBreath",
@@ -21715,7 +21715,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalFireBreath": {
       "DefName": "AI_AnimalFireBreath",
@@ -21734,7 +21734,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalToxicBreath": {
       "DefName": "AI_AnimalToxicBreath",
@@ -21753,7 +21753,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 385,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticLeg": {
       "DefName": "AI_AnimalProstheticLeg",
@@ -21772,7 +21772,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 156,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticArm": {
       "DefName": "AI_AnimalProstheticArm",
@@ -21791,7 +21791,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 156,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticTail": {
       "DefName": "AI_AnimalProstheticTail",
@@ -21810,7 +21810,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 156,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticJaw": {
       "DefName": "AI_AnimalProstheticJaw",
@@ -21829,7 +21829,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticHeart": {
       "DefName": "AI_AnimalProstheticHeart",
@@ -21848,7 +21848,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 146,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticSpine": {
       "DefName": "AI_AnimalProstheticSpine",
@@ -21867,7 +21867,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 146,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticStomach": {
       "DefName": "AI_AnimalProstheticStomach",
@@ -21886,7 +21886,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 146,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticLung": {
       "DefName": "AI_AnimalProstheticLung",
@@ -21905,7 +21905,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 99,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticKidney": {
       "DefName": "AI_AnimalProstheticKidney",
@@ -21924,7 +21924,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 99,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticLiver": {
       "DefName": "AI_AnimalProstheticLiver",
@@ -21943,7 +21943,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 146,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticBeak": {
       "DefName": "AI_AnimalProstheticBeak",
@@ -21962,7 +21962,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticTentacle": {
       "DefName": "AI_AnimalProstheticTentacle",
@@ -21981,7 +21981,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticBuoyancy": {
       "DefName": "AI_AnimalProstheticBuoyancy",
@@ -22000,7 +22000,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticShell": {
       "DefName": "AI_AnimalProstheticShell",
@@ -22019,7 +22019,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticWing": {
       "DefName": "AI_AnimalProstheticWing",
@@ -22038,7 +22038,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticBlade": {
       "DefName": "AI_AnimalProstheticBlade",
@@ -22057,7 +22057,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticStinger": {
       "DefName": "AI_AnimalProstheticStinger",
@@ -22076,7 +22076,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalProstheticHorn": {
       "DefName": "AI_AnimalProstheticHorn",
@@ -22095,7 +22095,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 95,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalPowerClaw": {
       "DefName": "AI_AnimalPowerClaw",
@@ -22114,7 +22114,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 220,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalPainstopper": {
       "DefName": "AI_AnimalPainstopper",
@@ -22133,7 +22133,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 137,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalController": {
       "DefName": "AI_AnimalController",
@@ -22152,7 +22152,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 490,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalJump": {
       "DefName": "AI_AnimalJump",
@@ -22171,7 +22171,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 220,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalThermoregulator": {
       "DefName": "AI_AnimalThermoregulator",
@@ -22190,7 +22190,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 105,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "AI_AnimalChemfuelNodules": {
       "DefName": "AI_AnimalChemfuelNodules",
@@ -22209,7 +22209,7 @@
       "Mod": "Alpha Implants",
       "BasePrice": 86,
       "Category": "Animal parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VPE_Eltex": {
       "DefName": "VPE_Eltex",
@@ -27301,7 +27301,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 530,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Trawler": {
       "DefName": "VVE_Trawler",
@@ -27320,7 +27320,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1900,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Bed_StoneSlab": {
       "DefName": "Bed_StoneSlab",
@@ -31044,7 +31044,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1450,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_NeurostabilizerArray": {
       "DefName": "VQEA_NeurostabilizerArray",
@@ -31063,7 +31063,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 345,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_CognitiveRecoveryArray": {
       "DefName": "VQEA_CognitiveRecoveryArray",
@@ -31082,7 +31082,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 320,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_RapidInfusionPump": {
       "DefName": "VQEA_RapidInfusionPump",
@@ -31101,7 +31101,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 380,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_ArchiteRecycler": {
       "DefName": "VQEA_ArchiteRecycler",
@@ -31120,7 +31120,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 450,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_GenomicAttenuator": {
       "DefName": "VQEA_GenomicAttenuator",
@@ -31139,7 +31139,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 550,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_RejectionBufferCoil": {
       "DefName": "VQEA_RejectionBufferCoil",
@@ -31158,7 +31158,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 400,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_SpliceframeUplink": {
       "DefName": "VQEA_SpliceframeUplink",
@@ -31177,7 +31177,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 600,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_MutagenInhibitorCore": {
       "DefName": "VQEA_MutagenInhibitorCore",
@@ -31196,7 +31196,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1000,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_TraitSelectionPrism": {
       "DefName": "VQEA_TraitSelectionPrism",
@@ -31215,7 +31215,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1250,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_AberrationRedirector": {
       "DefName": "VQEA_AberrationRedirector",
@@ -31234,7 +31234,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1000,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_ComplexityHarmonizer": {
       "DefName": "VQEA_ComplexityHarmonizer",
@@ -31253,7 +31253,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1250,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_ArchitePathingArray": {
       "DefName": "VQEA_ArchitePathingArray",
@@ -31272,7 +31272,7 @@
       "Mod": "Vanilla Quests Expanded - Ancients",
       "BasePrice": 1565,
       "Category": "Archite injection lab",
-      "Enabled": true
+      "Enabled": false
     },
     "VQEA_AncientChemfuelGenerator": {
       "DefName": "VQEA_AncientChemfuelGenerator",
@@ -43736,7 +43736,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 700,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_Zapcode": {
       "DefName": "USH_ExecData_Zapcode",
@@ -43755,7 +43755,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 250,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_ForkBomb": {
       "DefName": "USH_ExecData_ForkBomb",
@@ -43774,7 +43774,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 540,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_Discharge": {
       "DefName": "USH_ExecData_Discharge",
@@ -43793,7 +43793,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 250,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_Disarm": {
       "DefName": "USH_ExecData_Disarm",
@@ -43812,7 +43812,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1150,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_ShortCircuit": {
       "DefName": "USH_ExecData_ShortCircuit",
@@ -43831,7 +43831,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 250,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecData_HijackSubcore": {
       "DefName": "USH_ExecData_HijackSubcore",
@@ -43850,7 +43850,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1140,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_OptimizationCoprocessor": {
       "DefName": "USH_OptimizationCoprocessor",
@@ -44040,7 +44040,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 785,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_AdvancedCyberlink": {
       "DefName": "USH_AdvancedCyberlink",
@@ -44059,7 +44059,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1975,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_ExecDataCase": {
       "DefName": "USH_ExecDataCase",
@@ -44078,7 +44078,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_JammerKit": {
       "DefName": "USH_JammerKit",
@@ -44097,7 +44097,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_AdvancedJammerKit": {
       "DefName": "USH_AdvancedJammerKit",
@@ -44116,7 +44116,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_OptimizationModule": {
       "DefName": "USH_OptimizationModule",
@@ -44135,7 +44135,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_AdvancedOptimizationModule": {
       "DefName": "USH_AdvancedOptimizationModule",
@@ -44154,7 +44154,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_RemoteAccessPort": {
       "DefName": "USH_RemoteAccessPort",
@@ -44173,7 +44173,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_AdvancedRemoteAccessPort": {
       "DefName": "USH_AdvancedRemoteAccessPort",
@@ -44192,7 +44192,7 @@
       "Mod": "Ushankas Hacking Expansion",
       "BasePrice": 1200,
       "Category": "Cybertech",
-      "Enabled": true
+      "Enabled": false
     },
     "USH_DarkGlitterpanel": {
       "DefName": "USH_DarkGlitterpanel",
@@ -50481,7 +50481,7 @@
       "Mod": "Edge of Descension - Hovercrafts",
       "BasePrice": 3000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Hovertruck": {
       "DefName": "Hovertruck",
@@ -50500,7 +50500,7 @@
       "Mod": "Edge of Descension - Hovercrafts",
       "BasePrice": 3500,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_EarlyWheel": {
       "DefName": "AV_EarlyWheel",
@@ -50557,7 +50557,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 850,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_FordModelA": {
       "DefName": "AV_FordModelA",
@@ -50576,7 +50576,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1250,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_FordModelAAmbulance": {
       "DefName": "AV_FordModelAAmbulance",
@@ -50595,7 +50595,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1500,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_FordModelT": {
       "DefName": "AV_FordModelT",
@@ -50614,7 +50614,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1100,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_FordModelTVan": {
       "DefName": "AV_FordModelTVan",
@@ -50633,7 +50633,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1250,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_OldsmobileLightTonneau": {
       "DefName": "AV_OldsmobileLightTonneau",
@@ -50652,7 +50652,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1300,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_OldsmobileModelRCurvedDash": {
       "DefName": "AV_OldsmobileModelRCurvedDash",
@@ -50671,7 +50671,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1050,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_RenaultTypeK": {
       "DefName": "AV_RenaultTypeK",
@@ -50690,7 +50690,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 975,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_RollsRoyceSilverGhost": {
       "DefName": "AV_RollsRoyceSilverGhost",
@@ -50709,7 +50709,7 @@
       "Mod": "Alpha Vehicles - Early Cars",
       "BasePrice": 1950,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_MastAndSails": {
       "DefName": "AV_MastAndSails",
@@ -50804,7 +50804,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Junk": {
       "DefName": "AV_Junk",
@@ -50823,7 +50823,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 750,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Longship": {
       "DefName": "AV_Longship",
@@ -50842,7 +50842,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Caravel": {
       "DefName": "AV_Caravel",
@@ -50861,7 +50861,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 1500,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Sloop": {
       "DefName": "AV_Sloop",
@@ -50880,7 +50880,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 1500,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Brig": {
       "DefName": "AV_Brig",
@@ -50899,7 +50899,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 3250,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Galleon": {
       "DefName": "AV_Galleon",
@@ -50918,7 +50918,7 @@
       "Mod": "Alpha Vehicles - Age of Sail",
       "BasePrice": 3000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "UV_QuantumCoherenceChip": {
       "DefName": "UV_QuantumCoherenceChip",
@@ -52381,7 +52381,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 900,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleEye_Targeting": {
       "DefName": "LTS_ModuleEye_Targeting",
@@ -52400,7 +52400,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 900,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleEye_NightVision": {
       "DefName": "LTS_ModuleEye_NightVision",
@@ -52419,7 +52419,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 900,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleEye_EyeColour": {
       "DefName": "LTS_ModuleEye_EyeColour",
@@ -52438,7 +52438,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 255,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleEye_ProtectiveLens": {
       "DefName": "LTS_ModuleEye_ProtectiveLens",
@@ -52457,7 +52457,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 900,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_VibroModule": {
       "DefName": "LTS_ModuleArm_VibroModule",
@@ -52476,7 +52476,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_DeathGrip": {
       "DefName": "LTS_ModuleArm_DeathGrip",
@@ -52495,7 +52495,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 300,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_RecoilSuppression": {
       "DefName": "LTS_ModuleArm_RecoilSuppression",
@@ -52514,7 +52514,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_ArmBlade": {
       "DefName": "LTS_ModuleArm_ArmBlade",
@@ -52533,7 +52533,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 175,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_BionicClaw": {
       "DefName": "LTS_ModuleArm_BionicClaw",
@@ -52552,7 +52552,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_Monowire": {
       "DefName": "LTS_ModuleArm_Monowire",
@@ -52571,7 +52571,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_ZeusKnuckles": {
       "DefName": "LTS_ModuleArm_ZeusKnuckles",
@@ -52590,7 +52590,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_PlasmaClaw": {
       "DefName": "LTS_ModuleArm_PlasmaClaw",
@@ -52609,7 +52609,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_LaserArmBlade": {
       "DefName": "LTS_ModuleArm_LaserArmBlade",
@@ -52628,7 +52628,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_FieldHand": {
       "DefName": "LTS_ModuleArm_FieldHand",
@@ -52647,7 +52647,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_DrillHand": {
       "DefName": "LTS_ModuleArm_DrillHand",
@@ -52666,7 +52666,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_CryptoClaw": {
       "DefName": "LTS_ModuleArm_CryptoClaw",
@@ -52685,7 +52685,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 1000,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_Shotgun": {
       "DefName": "LTS_ModuleArm_Shotgun",
@@ -52704,7 +52704,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 260,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_SMG": {
       "DefName": "LTS_ModuleArm_SMG",
@@ -52723,7 +52723,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 260,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_Gauss": {
       "DefName": "LTS_ModuleArm_Gauss",
@@ -52742,7 +52742,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_Incinerator": {
       "DefName": "LTS_ModuleArm_Incinerator",
@@ -52761,7 +52761,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 300,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_DartGun": {
       "DefName": "LTS_ModuleArm_DartGun",
@@ -52780,7 +52780,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleArm_Fletcher": {
       "DefName": "LTS_ModuleArm_Fletcher",
@@ -52799,7 +52799,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleLeg_Digitigrade": {
       "DefName": "LTS_ModuleLeg_Digitigrade",
@@ -52818,7 +52818,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleLeg_RetractableFlipper": {
       "DefName": "LTS_ModuleLeg_RetractableFlipper",
@@ -52837,7 +52837,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 945,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleLeg_FootBlade": {
       "DefName": "LTS_ModuleLeg_FootBlade",
@@ -52856,7 +52856,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 175,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleLeg_VenomFootBlade": {
       "DefName": "LTS_ModuleLeg_VenomFootBlade",
@@ -52875,7 +52875,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 175,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "LTS_ModuleLeg_GravKick": {
       "DefName": "LTS_ModuleLeg_GravKick",
@@ -52894,7 +52894,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 1795,
       "Category": "Modules",
-      "Enabled": true
+      "Enabled": false
     },
     "SignalBooster": {
       "DefName": "SignalBooster",
@@ -53388,7 +53388,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 230,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "StalkerSkull": {
       "DefName": "StalkerSkull",
@@ -53407,7 +53407,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 820,
       "Category": "Ghoul",
-      "Enabled": true
+      "Enabled": false
     },
     "GourmandTongue": {
       "DefName": "GourmandTongue",
@@ -56352,7 +56352,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 2000,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerHoverUtilityModule": {
       "DefName": "BM_SpacerHoverUtilityModule",
@@ -56390,7 +56390,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1985,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerVacbreathUtilityModule": {
       "DefName": "BM_SpacerVacbreathUtilityModule",
@@ -56428,7 +56428,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 2310,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerDisruptorFlareAbilityModule": {
       "DefName": "BM_SpacerDisruptorFlareAbilityModule",
@@ -56447,7 +56447,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 470,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerVoidreaderSubpersonaChip": {
       "DefName": "BM_SpacerVoidreaderSubpersonaChip",
@@ -56485,7 +56485,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 685,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerToxBurstAbilityModule": {
       "DefName": "BM_SpacerToxBurstAbilityModule",
@@ -56504,7 +56504,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1525,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerToxTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerToxTrapDeployerAbilityModule",
@@ -56523,7 +56523,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMecharrayUtilityModule": {
       "DefName": "BM_SpacerMecharrayUtilityModule",
@@ -56561,7 +56561,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 645,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAirwireUtilityModule": {
       "DefName": "BM_SpacerAirwireUtilityModule",
@@ -56637,7 +56637,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1565,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerHemomakerUtilityModule": {
       "DefName": "BM_SpacerHemomakerUtilityModule",
@@ -56713,7 +56713,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1015,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerNuclearJumpPackAbilityModule": {
       "DefName": "BM_SpacerNuclearJumpPackAbilityModule",
@@ -56732,7 +56732,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1015,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPlasmaslashHornCombatModule": {
       "DefName": "BM_SpacerPlasmaslashHornCombatModule",
@@ -56751,7 +56751,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMonoslashHornCombatModule": {
       "DefName": "BM_SpacerMonoslashHornCombatModule",
@@ -56770,7 +56770,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerZeustrikeHornCombatModule": {
       "DefName": "BM_SpacerZeustrikeHornCombatModule",
@@ -56789,7 +56789,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerHandTalonCombatModule": {
       "DefName": "BM_SpacerHandTalonCombatModule",
@@ -56808,7 +56808,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 715,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerElbowBladeCombatModule": {
       "DefName": "BM_SpacerElbowBladeCombatModule",
@@ -56827,7 +56827,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 715,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerVenomTalonCombatModule": {
       "DefName": "BM_SpacerVenomTalonCombatModule",
@@ -56846,7 +56846,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 715,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerZeusfistCombatModule": {
       "DefName": "BM_SpacerZeusfistCombatModule",
@@ -56865,7 +56865,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerLowShieldDeployerAbilityModule": {
       "DefName": "BM_SpacerLowShieldDeployerAbilityModule",
@@ -56884,7 +56884,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 485,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerOrbitalMechClusterAbilityModule": {
       "DefName": "BM_SpacerOrbitalMechClusterAbilityModule",
@@ -56903,7 +56903,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 455,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPlasmaClawCombatModule": {
       "DefName": "BM_SpacerPlasmaClawCombatModule",
@@ -56922,7 +56922,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPlasmaBladeCombatModule": {
       "DefName": "BM_SpacerPlasmaBladeCombatModule",
@@ -56941,7 +56941,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPlasmaSawCombatModule": {
       "DefName": "BM_SpacerPlasmaSawCombatModule",
@@ -56960,7 +56960,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMonoClawCombatModule": {
       "DefName": "BM_SpacerMonoClawCombatModule",
@@ -56979,7 +56979,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMonoBladeCombatModule": {
       "DefName": "BM_SpacerMonoBladeCombatModule",
@@ -56998,7 +56998,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMonoSawCombatModule": {
       "DefName": "BM_SpacerMonoSawCombatModule",
@@ -57017,7 +57017,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerKneeSpikeCombatModule": {
       "DefName": "BM_SpacerKneeSpikeCombatModule",
@@ -57036,7 +57036,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 715,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerZeuskickCombatModule": {
       "DefName": "BM_SpacerZeuskickCombatModule",
@@ -57055,7 +57055,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerVenomFangsCombatModule": {
       "DefName": "BM_SpacerVenomFangsCombatModule",
@@ -57074,7 +57074,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 715,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPlasmaFangCombatModule": {
       "DefName": "BM_SpacerPlasmaFangCombatModule",
@@ -57093,7 +57093,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMonoFangCombatModule": {
       "DefName": "BM_SpacerMonoFangCombatModule",
@@ -57112,7 +57112,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerZeusFangCombatModule": {
       "DefName": "BM_SpacerZeusFangCombatModule",
@@ -57131,7 +57131,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 3200,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAestheticUtilityModule": {
       "DefName": "BM_SpacerAestheticUtilityModule",
@@ -57245,7 +57245,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 455,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMinigunCombatModule": {
       "DefName": "BM_SpacerMinigunCombatModule",
@@ -57264,7 +57264,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1360,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerChainShotgunCombatModule": {
       "DefName": "BM_SpacerChainShotgunCombatModule",
@@ -57283,7 +57283,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 710,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerLMGCombatModule": {
       "DefName": "BM_SpacerLMGCombatModule",
@@ -57302,7 +57302,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 720,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerSniperRifleCombatModule": {
       "DefName": "BM_SpacerSniperRifleCombatModule",
@@ -57321,7 +57321,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 785,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPumpShotgunCombatModule": {
       "DefName": "BM_SpacerPumpShotgunCombatModule",
@@ -57340,7 +57340,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 625,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerHeavySMGCombatModule": {
       "DefName": "BM_SpacerHeavySMGCombatModule",
@@ -57359,7 +57359,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 685,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAssaultRifleCombatModule": {
       "DefName": "BM_SpacerAssaultRifleCombatModule",
@@ -57378,7 +57378,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 755,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerEMPLauncherCombatModule": {
       "DefName": "BM_SpacerEMPLauncherCombatModule",
@@ -57397,7 +57397,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 815,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerIncendiaryLauncherCombatModule": {
       "DefName": "BM_SpacerIncendiaryLauncherCombatModule",
@@ -57416,7 +57416,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 685,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerSmokeLauncherCombatModule": {
       "DefName": "BM_SpacerSmokeLauncherCombatModule",
@@ -57435,7 +57435,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 685,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerFistCombatModule": {
       "DefName": "BM_SpacerPowerFistCombatModule",
@@ -57454,7 +57454,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 910,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerChargeRifleCombatModule": {
       "DefName": "BM_SpacerChargeRifleCombatModule",
@@ -57473,7 +57473,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1265,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerChargeLanceCombatModule": {
       "DefName": "BM_SpacerChargeLanceCombatModule",
@@ -57492,7 +57492,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1555,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerDrillWorkModule": {
       "DefName": "BM_SpacerDrillWorkModule",
@@ -57644,7 +57644,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAntigrainTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerAntigrainTrapDeployerAbilityModule",
@@ -57663,7 +57663,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerFirefoamTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerFirefoamTrapDeployerAbilityModule",
@@ -57682,7 +57682,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerSmokeTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerSmokeTrapDeployerAbilityModule",
@@ -57701,7 +57701,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerEMPTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerEMPTrapDeployerAbilityModule",
@@ -57720,7 +57720,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerIncendiaryTrapDeployerAbilityModule": {
       "DefName": "BM_SpacerIncendiaryTrapDeployerAbilityModule",
@@ -57739,7 +57739,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 620,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerOrbitalBombardmentAbilityModule": {
       "DefName": "BM_SpacerOrbitalBombardmentAbilityModule",
@@ -57758,7 +57758,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 455,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerOrbitalPowerBeamAbilityModule": {
       "DefName": "BM_SpacerOrbitalPowerBeamAbilityModule",
@@ -57777,7 +57777,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 455,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerTornadoGeneratorAbilityModule": {
       "DefName": "BM_SpacerTornadoGeneratorAbilityModule",
@@ -57796,7 +57796,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 455,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAutopistolCombatModule": {
       "DefName": "BM_SpacerAutopistolCombatModule",
@@ -57815,7 +57815,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 540,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerHighExplosiveBurstAbilityModule": {
       "DefName": "BM_SpacerHighExplosiveBurstAbilityModule",
@@ -57834,7 +57834,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1280,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerFirefoamBurstAbilityModule": {
       "DefName": "BM_SpacerFirefoamBurstAbilityModule",
@@ -57853,7 +57853,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1250,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerSmokeBurstAbilityModule": {
       "DefName": "BM_SpacerSmokeBurstAbilityModule",
@@ -57872,7 +57872,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1250,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerEMPBurstAbilityModule": {
       "DefName": "BM_SpacerEMPBurstAbilityModule",
@@ -57891,7 +57891,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1275,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerIncendiaryBurstAbilityModule": {
       "DefName": "BM_SpacerIncendiaryBurstAbilityModule",
@@ -57910,7 +57910,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1285,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerClawCombatModule": {
       "DefName": "BM_SpacerPowerClawCombatModule",
@@ -57929,7 +57929,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1000,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerBladeCombatModule": {
       "DefName": "BM_SpacerPowerBladeCombatModule",
@@ -57948,7 +57948,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1000,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerSawCombatModule": {
       "DefName": "BM_SpacerPowerSawCombatModule",
@@ -57967,7 +57967,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1000,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPyroweaveSupportModule": {
       "DefName": "BM_SpacerPyroweaveSupportModule",
@@ -58062,7 +58062,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1470,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerFragGrenadeCombatModule": {
       "DefName": "BM_SpacerFragGrenadeCombatModule",
@@ -58081,7 +58081,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 640,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerEMPGrenadeCombatModule": {
       "DefName": "BM_SpacerEMPGrenadeCombatModule",
@@ -58100,7 +58100,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 640,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerKickCombatModule": {
       "DefName": "BM_SpacerPowerKickCombatModule",
@@ -58119,7 +58119,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 910,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerCarrierUtilityModule": {
       "DefName": "BM_SpacerCarrierUtilityModule",
@@ -58290,7 +58290,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1000,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerStrikeHornCombatModule": {
       "DefName": "BM_SpacerPowerStrikeHornCombatModule",
@@ -58309,7 +58309,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 910,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerPowerFangCombatModule": {
       "DefName": "BM_SpacerPowerFangCombatModule",
@@ -58328,7 +58328,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1035,
       "Category": "Combat slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerSilenceUtilityModule": {
       "DefName": "BM_SpacerSilenceUtilityModule",
@@ -58784,7 +58784,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1370,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerAtmofilterUtilityModule": {
       "DefName": "BM_SpacerAtmofilterUtilityModule",
@@ -58936,7 +58936,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1885,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMagprojectorAbilityModule": {
       "DefName": "BM_SpacerMagprojectorAbilityModule",
@@ -58955,7 +58955,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1885,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerMedprojectorAbilityModule": {
       "DefName": "BM_SpacerMedprojectorAbilityModule",
@@ -58974,7 +58974,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1885,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerRadprojectorAbilityModule": {
       "DefName": "BM_SpacerRadprojectorAbilityModule",
@@ -58993,7 +58993,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1885,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerCryoprojectorAbilityModule": {
       "DefName": "BM_SpacerCryoprojectorAbilityModule",
@@ -59012,7 +59012,7 @@
       "Mod": "Bionic modularity",
       "BasePrice": 1885,
       "Category": "Ability slot modules",
-      "Enabled": true
+      "Enabled": false
     },
     "BM_SpacerZoologistSubpersonaChip": {
       "DefName": "BM_SpacerZoologistSubpersonaChip",
@@ -59468,7 +59468,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 100,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_CoveredCarriage": {
       "DefName": "AV_CoveredCarriage",
@@ -59487,7 +59487,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 500,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_DogSled": {
       "DefName": "AV_DogSled",
@@ -59506,7 +59506,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 100,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_OutriggerCanoe": {
       "DefName": "AV_OutriggerCanoe",
@@ -59525,7 +59525,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_OxCart": {
       "DefName": "AV_OxCart",
@@ -59544,7 +59544,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 350,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Palanquin": {
       "DefName": "AV_Palanquin",
@@ -59563,7 +59563,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 250,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Rickshaw": {
       "DefName": "AV_Rickshaw",
@@ -59582,7 +59582,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 150,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_RowBoat": {
       "DefName": "AV_RowBoat",
@@ -59601,7 +59601,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 150,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AV_Wheelbarrow": {
       "DefName": "AV_Wheelbarrow",
@@ -59620,7 +59620,7 @@
       "Mod": "Alpha Vehicles - Neolithic",
       "BasePrice": 100,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ARandom_FateManipulator": {
       "DefName": "ARandom_FateManipulator",
@@ -59639,7 +59639,7 @@
       "Mod": "Alpha Random",
       "BasePrice": 1000,
       "Category": "Fate manipulation devices",
-      "Enabled": true
+      "Enabled": false
     },
     "ARandom_FateManipulator_Benign": {
       "DefName": "ARandom_FateManipulator_Benign",
@@ -59658,7 +59658,7 @@
       "Mod": "Alpha Random",
       "BasePrice": 1000,
       "Category": "Fate manipulation devices",
-      "Enabled": true
+      "Enabled": false
     },
     "ARandom_FateManipulator_Dark": {
       "DefName": "ARandom_FateManipulator_Dark",
@@ -59677,7 +59677,7 @@
       "Mod": "Alpha Random",
       "BasePrice": 1000,
       "Category": "Fate manipulation devices",
-      "Enabled": true
+      "Enabled": false
     },
     "ARandom_FateManipulator_Chaotic": {
       "DefName": "ARandom_FateManipulator_Chaotic",
@@ -59696,7 +59696,7 @@
       "Mod": "Alpha Random",
       "BasePrice": 1000,
       "Category": "Fate manipulation devices",
-      "Enabled": true
+      "Enabled": false
     },
     "ARandom_MaterialsLootBox": {
       "DefName": "ARandom_MaterialsLootBox",
@@ -69956,7 +69956,7 @@
       "Mod": "RimWorld",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Pelvis": {
       "DefName": "VREA_Pelvis",
@@ -69975,7 +69975,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Neck": {
       "DefName": "VREA_Neck",
@@ -69994,7 +69994,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Tongue": {
       "DefName": "VREA_Tongue",
@@ -70013,7 +70013,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Shoulder": {
       "DefName": "VREA_Shoulder",
@@ -70032,7 +70032,7 @@
       "Mod": "RimWorld",
       "BasePrice": 156,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Clavicle": {
       "DefName": "VREA_Clavicle",
@@ -70051,7 +70051,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Humerus": {
       "DefName": "VREA_Humerus",
@@ -70070,7 +70070,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Radius": {
       "DefName": "VREA_Radius",
@@ -70089,7 +70089,7 @@
       "Mod": "RimWorld",
       "BasePrice": 138,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Finger": {
       "DefName": "VREA_Finger",
@@ -70108,7 +70108,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Waist": {
       "DefName": "VREA_Waist",
@@ -70127,7 +70127,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Femur": {
       "DefName": "VREA_Femur",
@@ -70146,7 +70146,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Tibia": {
       "DefName": "VREA_Tibia",
@@ -70165,7 +70165,7 @@
       "Mod": "RimWorld",
       "BasePrice": 147,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_Toe": {
       "DefName": "VREA_Toe",
@@ -70184,7 +70184,7 @@
       "Mod": "RimWorld",
       "BasePrice": 111,
       "Category": "Android body parts",
-      "Enabled": true
+      "Enabled": false
     },
     "Meat_Bear_Grizzly": {
       "DefName": "Meat_Bear_Grizzly",
@@ -79836,7 +79836,7 @@
       "Mod": "Character Editor",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Zombgrella": {
       "DefName": "Zombgrella",
@@ -79855,7 +79855,7 @@
       "Mod": "Character Editor",
       "BasePrice": 385,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     }
   }
 }

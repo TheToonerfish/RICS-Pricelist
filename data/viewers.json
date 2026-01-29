@@ -1,10 +1,10 @@
 {
-  "total": 2,
+  "total": 14,
   "viewers": [
     {
       "username": "toonerfish",
       "karma": 95,
-      "coins": 159,
+      "coins": 5445,
       "isBanned": false,
       "platformIds": {
         "twitch": "121370216"
@@ -13,9 +13,107 @@
     {
       "username": "twitch:121370216",
       "karma": 100,
-      "coins": 170,
+      "coins": 800,
       "isBanned": false,
       "platformIds": {}
+    },
+    {
+      "username": "savvykam28",
+      "karma": 100,
+      "coins": 140,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "534897501"
+      }
+    },
+    {
+      "username": "rygger_dracora",
+      "karma": 100,
+      "coins": 3020,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105869346"
+      }
+    },
+    {
+      "username": "twitch:534897501",
+      "karma": 100,
+      "coins": 2660,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "feetmeats",
+      "karma": 124,
+      "coins": 902,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "29696623"
+      }
+    },
+    {
+      "username": "frostchickenfeet",
+      "karma": 96,
+      "coins": 755,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "675648225"
+      }
+    },
+    {
+      "username": "corporateworkmeat",
+      "karma": 117,
+      "coins": 939,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "23118880"
+      }
+    },
+    {
+      "username": "twitch:23118880",
+      "karma": 100,
+      "coins": 2190,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:29696623",
+      "karma": 100,
+      "coins": 2180,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:675648225",
+      "karma": 100,
+      "coins": 1900,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "schvenn_",
+      "karma": 98,
+      "coins": 1471,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "181306958"
+      }
+    },
+    {
+      "username": "twitch:181306958",
+      "karma": 100,
+      "coins": 1930,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "toonerfishbot",
+      "karma": 100,
+      "coins": 200,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1435295446"
+      }
     }
   ]
 }

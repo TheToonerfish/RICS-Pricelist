@@ -237,7 +237,7 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "VPE - Hydromancer",
     "Version": 1
   },
@@ -248,7 +248,7 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "VPE - Aeromancer",
     "Version": 1
   },
@@ -281,7 +281,7 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Furniture Expanded - Power",
     "Version": 1
   },
@@ -292,7 +292,7 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Races Expanded - Archon",
     "Version": 1
   },
@@ -325,7 +325,7 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded - Hemosage",
     "Version": 1
   },
