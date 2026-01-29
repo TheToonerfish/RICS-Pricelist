@@ -8,8 +8,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: #FFF;
-    background-color: #000000;
+    color: #333;
+    background-color: #f5f5f5;
 }
 
 .container {
@@ -36,7 +36,7 @@ header h1 {
 /* Tabs */
 .tabs {
     display: flex;
-    background: black;
+    background: white;
     border-radius: 8px 8px 0 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
