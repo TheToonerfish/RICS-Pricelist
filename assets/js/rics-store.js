@@ -649,3 +649,4 @@ processRacesData(racesObject) {
 document.addEventListener('DOMContentLoaded', () => {
     new RICSStore();
 });
+
