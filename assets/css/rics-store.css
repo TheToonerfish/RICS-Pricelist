@@ -8,8 +8,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f5f5f5;
+    color: #111111;
+    background-color: #1a1616;
 }
 
 .container {
@@ -23,8 +23,8 @@ header {
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(135deg, #5aa031 0%, #88a24b 100%);
+    color: rgb(0, 0, 0);
     border-radius: 8px;
 }
 
@@ -36,7 +36,7 @@ header h1 {
 /* Tabs */
 .tabs {
     display: flex;
-    background: white;
+    background: rgb(150, 147, 147);
     border-radius: 8px 8px 0 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
@@ -52,19 +52,19 @@ header h1 {
 }
 
 .tab-button:hover {
-    background: #f8f9fa;
+    background: #2021225e;
 }
 
 .tab-button.active {
-    background: white;
-    border-bottom: 3px solid #667eea;
-    color: #667eea;
+    background: rgb(0, 0, 0);
+    border-bottom: 3px solid #71ea66;
+    color: #66ea78;
     font-weight: bold;
 }
 
 /* Tab content */
 .tab-content {
-    background: white;
+    background: rgb(19, 19, 19);
     border-radius: 0 0 8px 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     min-height: 400px;
@@ -87,7 +87,7 @@ header h1 {
 .search-input {
     width: 100%;
     padding: 12px;
-    border: 2px solid #e9ecef;
+    border: 2px solid #434446;
     border-radius: 6px;
     font-size: 1rem;
     transition: border-color 0.3s ease;
@@ -95,7 +95,7 @@ header h1 {
 
 .search-input:focus {
     outline: none;
-    border-color: #667eea;
+    border-color: #3dce50;
 }
 
 /* Table styles */
@@ -110,19 +110,19 @@ header h1 {
 }
 
 .items-table th {
-    background: #f8f9fa;
+    background: #000000;
     padding: 15px;
     text-align: left;
     font-weight: 600;
-    color: #495057;
-    border-bottom: 2px solid #dee2e6;
+    color: #adadad;
+    border-bottom: 2px solid #030303;
     cursor: pointer;
     user-select: none;
     position: relative;
 }
 
 .items-table th:hover {
-    background: #e9ecef;
+    background: #212222;
 }
 
 .items-table th::after {
@@ -144,33 +144,33 @@ header h1 {
 
 .items-table td {
     padding: 15px;
-    border-bottom: 1px solid #dee2e6;
+    border-bottom: 1px solid #000000;
     vertical-align: top;
 }
 
 .items-table tbody tr:hover {
-    background: #f8f9fa;
+    background: #1e1e1f;
 }
 
 /* Metadata styles */
 .metadata {
     font-size: 0.85rem;
-    color: #6c757d;
+    color: #b6b6b6;
     display: block;
     margin-top: 5px;
 }
 
 /* Race-specific styles */
 .race-xenotype {
-    background-color: #f8f9fa;
+    background-color: #232324;
 }
 
 .race-base {
-    background-color: white;
+    background-color: rgb(39, 38, 38);
 }
 
 .items-table tr.race-base {
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 2px solid #000000;
 }
 
 /* Responsive design */
