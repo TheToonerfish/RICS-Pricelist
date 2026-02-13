@@ -178,7 +178,14 @@ class RICSStore {
                     enabled: weatherData.Enabled !== false
                 };
             })
-            .filter(weather => weather.enabled && weather.baseCost > 0);
+            .filter(weather => {
+            // Only include if:
+            // 1. Event is enabled AND
+            // 2. Base cost > 0 AND
+            // 3. Mod is active (modactive = true)
+            return event.enabled && 
+                   event.baseCost > 0 && 
+                   event.modActive === true;
     }
 
     processTraitDescription(description) {
