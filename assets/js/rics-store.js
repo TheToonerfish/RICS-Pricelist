@@ -17,11 +17,15 @@ class RICSStore {
         this.init();
     }
 
-    async init() {
+async init() {
+    try {
         await this.loadAllData();
         this.renderAllTabs();
         this.setupEventListeners();
+    } catch (error) {
+        console.error('Init failed:', error);
     }
+}
 
     async loadAllData() {
         try {
